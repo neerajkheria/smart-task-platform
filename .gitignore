@@ -1,0 +1,40 @@
+# Node Modules
+node_modules/
+**/node_modules/
+
+# Environment Files
+.env
+.env.local
+.env.production
+.env.development
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# React Build
+frontend/build/
+
+# Coverage
+coverage/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Docker
+docker-data/
+
+# Misc
+dist/
